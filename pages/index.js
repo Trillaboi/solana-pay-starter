@@ -50,14 +50,12 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 💊 Trilla's Emoji Store 💊</p>
+          <p className="header"> 👕💊 Trilla's Tee Shirt Store 💊👕</p>
           <p className="sub-text">The only emoji store that accepts sh*tcoins</p>
         </header>
 
         <main>
-          
           {publicKey ? renderItemBuyContainer() : renderNotConnectedContainer()}
-
         </main>
 
         <div className="footer-container">
