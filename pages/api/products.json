@@ -1,11 +1,38 @@
 [
-    {
-      "id": 1,
-      "name": "OG Emoji pack",
-      "price": "0.09",
-      "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-      "image_url": "https://i.imgur.com/rVD8bjt.png",
-      "filename": "Emojis.zip",
-      "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
-    }
-  ]
+  {
+    "id": 2,
+    "name": "Akira Tee",
+    "price": "0.02",
+    "image_url": "https://res.cloudinary.com/teepublic/image/private/s--Stlr9aXy--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_442/c_crop,g_north_west,h_626,w_470,x_-14,y_0/g_north_west,u_upload:v1462829024:production:blanks:a59x1cgomgu5lprfjlmi,x_-409,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1470231343/production/designs/614635_1.jpg",
+    "description": "Akira motorcycle T-Shirt.",
+    "filename": "akira.png",
+    "hash": "QmSR2qdGZVRcFwh27cBnSSwKpWSoLkSigdRFNvwSPFPFkf"
+  },
+  {
+    "id": 3,
+    "name": "Hisoka Tee",
+    "price": "0.03",
+    "image_url": "//cdn.shopify.com/s/files/1/0014/2648/9388/products/bioworld-unisex-t-shirts-hunter-x-hunter-hisoka-run-dye-t-shirt-crunchyroll-exclusive-29719500619820_900x900.jpg?v=1645209590",
+    "description": "Hisoka T-Shirt",
+    "filename": "hisoka.jpg",
+    "hash": "QmadyS1cih2Rtca1RzXnpgfvYDHrihhhzzsNXUdXPh7F6B"
+  },
+  {
+    "id": 4,
+    "name": "Akira Pill Tee",
+    "price": "0.02",
+    "image_url": "https://ae01.alicdn.com/kf/H28b0a597d645445789b524cb4824c5be4/Akira-Capsule-Pill-Akira-Neo-Tokyo-Classic-Retro-T-Shirt-Ultra-Cotton-T-Shirt.jpg_Q90.jpg_.webp",
+    "description": "Akira Pill T-Shirt",
+    "filename": "akira_pill.jpg",
+    "hash": "QmceQcVZFZNpeQRepac5Avhhb1kYfSdMscJdw9Jq4th8oR"
+  },
+  {
+    "id": 5,
+    "name": "Samurai Champloo Tee",
+    "price": "0.02",
+    "image_url": "https://res.cloudinary.com/teepublic/image/private/s--n_rmPsi7--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_442/c_crop,g_north_west,h_626,w_470,x_-14,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-409,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1472851227/production/designs/663806_1.jpg",
+    "description": "Samurai Champloo T-Shirt",
+    "filename": "champloo.png",
+    "hash": "QmPkZ9WWP4jUUrHQ4Db1cPTmjoDAC7xLajiP3Z5q4FWuLB"
+  }
+]
